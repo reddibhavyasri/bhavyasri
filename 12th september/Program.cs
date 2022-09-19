@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace sep12thasnmnt1
 {
-    internal class Program
+    public  class Program
     {
         static void Main(string[] args)
         {
