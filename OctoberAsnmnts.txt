@@ -1,0 +1,11 @@
+1) Create a booking form for the member  of the Library.
+In that form accept userid and password.
+Userid will be mailid.
+Create a Login table separately to save userid and password.
+1 A) After the user logins successfully, welcome him on all the pages.
+example: Welcome, username!!!
+2) Create  a book request form to request a book from the library.
+If the book is available, update the bookIssue table accordingly.
+Show the return  date when the book is issued.
+3) Show all the available books in the library.
+4) Show the user the books to his account.
