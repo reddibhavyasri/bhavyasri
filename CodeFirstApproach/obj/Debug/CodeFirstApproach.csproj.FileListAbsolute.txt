@@ -1,0 +1,16 @@
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe.config
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\CodeFirstApproach.pdb
+F:\practice\Training recordings\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.AssemblyReference.cache
+F:\practice\Training recordings\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.SuggestedBindingRedirects.cache
+F:\practice\Training recordings\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CoreCompileInputs.cache
+F:\practice\Training recordings\CodeFirstApproach\obj\Debug\CodeFirstApproach.exe
+F:\practice\Training recordings\CodeFirstApproach\obj\Debug\CodeFirstApproach.pdb
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\CodeFirstDALDemo.dll
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\EntityFramework.dll
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\CodeFirstDALDemo.pdb
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\CodeFirstDALDemo.dll.config
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\EntityFramework.xml
+F:\practice\Training recordings\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+F:\practice\Training recordings\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CopyComplete
